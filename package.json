@@ -1,0 +1,24 @@
+{
+  "name": "zoo-keepr",
+  "version": "1.0.0",
+  "description": "Week 11 In Class Assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sccr0123/Zoo-Keepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sccr0123/Zoo-Keepr/issues"
+  },
+  "homepage": "https://github.com/Sccr0123/Zoo-Keepr#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
